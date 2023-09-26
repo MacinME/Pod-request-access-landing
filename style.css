@@ -209,9 +209,14 @@ button {
 
 /* Email Invalid */
 .error {
+    width: 100%;
+    display: block;
     color: var(--error-color);
     font-size: 0.75rem;
     line-height: normal;
+    margin: auto;
+    text-align: center;
+    padding: 0.5rem 0;
 }
 
 /* Tablet Layout */
@@ -360,6 +365,12 @@ button {
     .main__content-button {
         width: 10.125rem;
         cursor: pointer;
+    }
+
+    /* Email Invalid */
+    .error {
+        text-align: left;
+        margin-left: 2rem;
     }
 }
 
