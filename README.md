@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/pod-request-access-landing-page-eyTmdkLSG/hub)
 - Live Site URL: [Netlify](https://pod-landing-page-macin.netlify.app/)
 
 ## My process
@@ -61,7 +61,7 @@ Learning more about Regular Expressions.
 ### Useful resources
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - It's a very useful documentation when it comes to HTML, CSS and JavaScript issues.
-- [](https://www.tutorialspoint.com/how-to-validate-email-address-using-regexp-in-javascript) - This is an amazing article which helped me understand how regular expression works to validate emails
+- [Totorials Point](https://www.tutorialspoint.com/how-to-validate-email-address-using-regexp-in-javascript) - This is an amazing article which helped me understand how regular expression works to validate emails
 
 ## Author
 
